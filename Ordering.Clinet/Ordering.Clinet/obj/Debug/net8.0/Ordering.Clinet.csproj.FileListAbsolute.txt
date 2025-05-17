@@ -37,6 +37,13 @@ G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Order
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.runtimeconfig.json
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.dll
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.pdb
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Google.Protobuf.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.AspNetCore.Server.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.AspNetCore.Server.ClientFactory.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.Core.Api.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.Net.Client.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.Net.ClientFactory.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Grpc.Net.Common.dll
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Microsoft.OpenApi.dll
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll

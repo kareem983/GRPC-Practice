@@ -16,7 +16,7 @@ namespace Ordering.Payment.Services
             if (selectedUser == null)
                 responseStatus = PaymentResponseStatus.UserNotFound;
             
-            else if (request.UserBalance > selectedUser.Balance) 
+            else if (request.OrderBalance > selectedUser.Balance) 
                 responseStatus = PaymentResponseStatus.Failed;
             
 
@@ -26,7 +26,7 @@ namespace Ordering.Payment.Services
                 PaymentStatus = responseStatus,
                 RemainingUserBalance = responseStatus == PaymentResponseStatus.UserNotFound 
                 ? 0 
-                : selectedUser.Balance - request.UserBalance
+                : selectedUser.Balance - request.OrderBalance
             });
 
         }

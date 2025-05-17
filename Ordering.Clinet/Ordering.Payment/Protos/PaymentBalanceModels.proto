@@ -5,7 +5,7 @@ option csharp_namespace = "Ordering.Payment.Protos";
 
 message UserPaymentRequest{
 	int32 userID = 1;
-	double UserBalance = 2;
+	double OrderBalance = 2;
 }
 
 message UserPaymentResponse{

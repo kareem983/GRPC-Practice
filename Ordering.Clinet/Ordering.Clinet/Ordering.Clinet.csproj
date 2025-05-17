@@ -8,7 +8,23 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.49.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="..\Ordering.Inventory\Protos\InventoryItemModels.proto" GrpcServices="Client">
+      <Link>Protos\InventoryItemModels.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\Ordering.Inventory\Protos\InventoryItemService.proto" GrpcServices="Client">
+      <Link>Protos\InventoryItemService.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\Ordering.Payment\Protos\PaymentBalanceModels.proto" GrpcServices="Client">
+      <Link>Protos\PaymentBalanceModels.proto</Link>
+    </Protobuf>
+    <Protobuf Include="..\Ordering.Payment\Protos\PaymentBalanceService.proto" GrpcServices="Client">
+      <Link>Protos\PaymentBalanceService.proto</Link>
+    </Protobuf>
   </ItemGroup>
 
 </Project>
