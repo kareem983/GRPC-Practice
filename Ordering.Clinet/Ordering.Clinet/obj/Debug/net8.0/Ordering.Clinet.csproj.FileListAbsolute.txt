@@ -30,3 +30,36 @@ G:\3- Resources\3- Projects\test\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.
 G:\3- Resources\3- Projects\test\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.pdb
 G:\3- Resources\3- Projects\test\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.genruntimeconfig.cache
 G:\3- Resources\3- Projects\test\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\ref\Ordering.Clinet.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\appsettings.Development.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\appsettings.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.exe
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.deps.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.runtimeconfig.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Ordering.Clinet.pdb
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.csproj.AssemblyReference.cache
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.GeneratedMSBuildEditorConfig.editorconfig
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.AssemblyInfoInputs.cache
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.AssemblyInfo.cs
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.csproj.CoreCompileInputs.cache
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.MvcApplicationPartsAssemblyInfo.cs
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.MvcApplicationPartsAssemblyInfo.cache
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.sourcelink.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets.build.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets.development.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets\msbuild.Ordering.Clinet.Microsoft.AspNetCore.StaticWebAssets.props
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets\msbuild.build.Ordering.Clinet.props
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Ordering.Clinet.props
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Ordering.Clinet.props
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\staticwebassets.pack.json
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\scopedcss\bundle\Ordering.Clinet.styles.css
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.csproj.CopyComplete
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\refint\Ordering.Clinet.dll
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.pdb
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\Ordering.Clinet.genruntimeconfig.cache
+G:\3- Resources\3- Projects\Ordering Service\GRPC-Practice\Ordering.Clinet\Ordering.Clinet\obj\Debug\net8.0\ref\Ordering.Clinet.dll

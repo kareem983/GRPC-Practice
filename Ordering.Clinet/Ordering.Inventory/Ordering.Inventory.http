@@ -1,0 +1,6 @@
+@Ordering.Inventory_HostAddress = http://localhost:5216
+
+GET {{Ordering.Inventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

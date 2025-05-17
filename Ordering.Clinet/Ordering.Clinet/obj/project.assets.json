@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\3- Resources\\3- Projects\\test\\Ordering.Clinet\\Ordering.Clinet\\Ordering.Clinet.csproj",
+      "projectUniqueName": "G:\\3- Resources\\3- Projects\\Ordering Service\\GRPC-Practice\\Ordering.Clinet\\Ordering.Clinet\\Ordering.Clinet.csproj",
       "projectName": "Ordering.Clinet",
-      "projectPath": "G:\\3- Resources\\3- Projects\\test\\Ordering.Clinet\\Ordering.Clinet\\Ordering.Clinet.csproj",
+      "projectPath": "G:\\3- Resources\\3- Projects\\Ordering Service\\GRPC-Practice\\Ordering.Clinet\\Ordering.Clinet\\Ordering.Clinet.csproj",
       "packagesPath": "C:\\Users\\Kareem Saeed\\.nuget\\packages\\",
-      "outputPath": "G:\\3- Resources\\3- Projects\\test\\Ordering.Clinet\\Ordering.Clinet\\obj\\",
+      "outputPath": "G:\\3- Resources\\3- Projects\\Ordering Service\\GRPC-Practice\\Ordering.Clinet\\Ordering.Clinet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kareem Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",

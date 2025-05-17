@@ -1,0 +1,21 @@
+syntax = "proto3";
+
+option csharp_namespace = "Ordering.Payment.Protos";
+
+
+message UserPaymentRequest{
+	int32 userID = 1;
+	double UserBalance = 2;
+}
+
+message UserPaymentResponse{
+	int32 userID = 1;
+	PaymentResponseStatus PaymentStatus = 2;
+	double RemainingUserBalance = 3;
+}
+
+enum PaymentResponseStatus{
+	Failed = 0;
+	UserNotFound = 1;
+	Success = 2;
+}
