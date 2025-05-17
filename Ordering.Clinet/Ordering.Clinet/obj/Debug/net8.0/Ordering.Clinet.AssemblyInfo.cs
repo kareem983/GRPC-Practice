@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ordering.Clinet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb7659daa4644b0eb2850f7050a781d514c4fb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa21a8ce11fce4666fb406c309b11ba04a79a30d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ordering.Clinet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ordering.Clinet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+option csharp_namespace = "Ordering.Inventory.Protos";
+
+import "InventoryItemModels.proto";
+
+service InventoryOrderItemService{
+	rpc ProcessOrderItems(OrderItemsRequest) returns (OrderItemsResponse);
+}

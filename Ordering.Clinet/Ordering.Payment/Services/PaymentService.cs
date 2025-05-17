@@ -9,7 +9,7 @@ namespace Ordering.Payment.Services
         public override Task<UserPaymentResponse> ProcessUserPayment(UserPaymentRequest request, ServerCallContext context)
         {
             var database = new Database();
-            var selectedUser = database.GetUsers().Where(usr => request.UserID == usr.Id).FirstOrDefault();
+            var selectedUser = database.GetUsers().Where(usr => usr.Id == request.UserID).FirstOrDefault();
 
             PaymentResponseStatus responseStatus = PaymentResponseStatus.Success;
 

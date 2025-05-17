@@ -1,0 +1,29 @@
+syntax = "proto3";
+
+option csharp_namespace = "Ordering.Inventory.Protos";
+
+
+message OrderItemsRequest{
+	repeated Item items = 1;
+}
+
+message Item{
+	int32 itemID = 1;
+	int32 itemQuantity = 2;
+}
+
+message OrderItemsResponse{
+	bool orderStatusSuccess = 1;
+	repeated ItemResponse ItemsResponse = 2;
+}
+
+message ItemResponse{
+	int32 itemId = 1;
+	ItemExistingStatus itemExistingStatus = 2;
+}
+
+enum ItemExistingStatus{
+	ItemNotFound = 0;
+	ItemQuantityExceeded = 1;
+	ItemAvailabe = 2;
+}

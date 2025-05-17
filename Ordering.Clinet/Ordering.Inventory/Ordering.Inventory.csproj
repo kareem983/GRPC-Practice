@@ -8,7 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Protos\InventoryItemModels.proto" />
+    <None Remove="Protos\InventoryItemService.proto" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Grpc.AspNetCore" Version="2.71.0" />
+    <PackageReference Include="Grpc.AspNetCore.Server.Reflection" Version="2.71.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Protobuf Include="Protos\InventoryItemModels.proto" GrpcServices="None" ProtoRoot="Protos/" />
+    <Protobuf Include="Protos\InventoryItemService.proto" GrpcServices="Server" ProtoRoot="Protos/" />
   </ItemGroup>
 
 </Project>
