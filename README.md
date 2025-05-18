@@ -1,4 +1,6 @@
 # gRPC Practice
+#### gRPC stands for Google Remote Procedure Call.
+
 > Order API to train on using gRPC in microservices. This API comminucates with two services (Payment, Inventory) in an Ordering API solution. The project helped me learn how to define services with Protocol Buffers and set up gRPC communication between different parts of a system.
 
 [![](http://img.shields.io/badge/framework-.NetCore-blue.svg?style=flat)](https://maven.apache.org/)
